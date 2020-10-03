@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+  <meta charset="utf-8"
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Continue exploring the world of Tamagotchi!</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+  <h4 class=titleText>> Articles about Tamagotchi </h4>
+  <p> The life and death of Tamagotchi and the virtual pet <br>
+    "The 1990s saw a proliferation of virtual and robotic pets,
+    inspiring either attentive care or neglectful guilt in their owners.
+   Jenna Jovi describes how a demanding Tamagotchi launched her own particular
+   digital devotion".<br>
+       <a href="https://wellcomecollection.org/articles/WsT4Ex8AAHruGfWb" target="_blank"> Link to the article</a>
+
+  </p>
+
+  <p> If You've Spent $2,999 On A Tamagotchi, We're Concerned About You <br>
+  Long before every kid had a cell phone in their pocket, the world was introduced to a slightly less technological timesuck: The Tamagotchi.
+  These little electronic pets were ubiquitous throughout the '90s, as were the funeral services every child held when their beloved computerized pet passed away.
+      <a href="https://www.ranker.com/list/rare-tamagotchi-that-are-worth-money/jonathan-kantor" target="_blank"> Link to the article</a>
+   </p>
